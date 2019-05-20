@@ -1,6 +1,6 @@
 package Chapter5;
 
-// Demonstrate String arrays.
+// listing 19 Demonstrate String arrays.
 class StringArrays {
     public static void main(String args[]) {
         String strs[] = {"This", "is", "a", "test."};
