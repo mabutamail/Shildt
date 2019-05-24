@@ -18,7 +18,7 @@ class KtoD {
 
         System.out.println("Enter text ('stop' to quit).");
 
-        try (FileWriter fw = new FileWriter("test.txt"))
+        try (FileWriter fw = new FileWriter("test2.txt"))
         {
             do {
                 System.out.print(": ");
